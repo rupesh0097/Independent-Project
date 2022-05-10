@@ -686,7 +686,7 @@ h4 {
 
 }
 
-@media (max-width: 650px){
+    @media (max-width: 650px){
     
         main .title .background h3{
             padding: 0rem!important;
